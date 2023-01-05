@@ -1,1 +1,7 @@
 MATLAB Code of initial value problems for any mesh points and calculation of the error in Computational Methods for Engineers. 
+List of initial value problems:
+1. Euler's Method
+2. Mid-point Method
+3. Modified Euler's Method
+4. Huen's Method
+5. Runge-Kutta Method
